@@ -34,7 +34,7 @@ on:
       - closed
 
 env:
-  REPO_NAME: jesusbejar/itm350-jesusbejar-test/
+  REPO_NAME: jesusbejar/itm350-jesusbejar-test
 
 jobs:
   if_merged:
