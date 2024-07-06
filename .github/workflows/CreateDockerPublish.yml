@@ -1,6 +1,9 @@
 name: CI/CD Pipeline for Docker
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 # on:
 #   pull_request:
