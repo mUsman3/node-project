@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "for the ITM350 class",
+  "main": "index.js",
+  "scripts": {
+    "hello": "node Приветмир.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "itm350-Jesus-test"
+  },
+  "author": "Jesus Bejar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
